@@ -8,6 +8,3 @@ print(b)
 
 sum = a + b
 print(sum)
-
-
-print("This is a main function")
